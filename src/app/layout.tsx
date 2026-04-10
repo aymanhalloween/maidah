@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   },
   description:
     "A permanent endowment fund investing in the people and institutions the Muslim world still needs.",
-  metadataBase: new URL("https://maidah.org"),
+  metadataBase: new URL("https://maidah.co"),
   openGraph: {
     title: "Maidah",
     description:
       "A permanent endowment fund investing in the people and institutions the Muslim world still needs.",
-    url: "https://maidah.org",
+    url: "https://maidah.co",
     siteName: "Maidah",
     locale: "en_US",
     type: "website",
