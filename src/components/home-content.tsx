@@ -27,10 +27,18 @@ export function HomeContent() {
           </FadeIn>
           <FadeIn index={3} className="mt-8">
             <a
-              href="#join"
+              href="/blog/the-maidah-memo"
               className="inline-block bg-primary text-white text-[13px] uppercase tracking-[0.08em] font-medium px-7 py-3 rounded-[4px] hover:bg-[#333333] active:bg-black transition-colors duration-200"
             >
-              Join
+              Read the Memo
+            </a>
+          </FadeIn>
+          <FadeIn index={4} className="mt-5">
+            <a
+              href="#join"
+              className="inline-block text-[13px] text-secondary underline underline-offset-4 decoration-[1px] hover:text-primary transition-colors duration-200"
+            >
+              Join now
             </a>
           </FadeIn>
         </div>
