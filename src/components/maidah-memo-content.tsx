@@ -187,30 +187,30 @@ export function MaidahMemoContent() {
             </p>
 
             <p>
-              <strong className="text-primary">Din:</strong> faith and religion.
+              <strong className="text-primary">Deen:</strong>{" "}faith and religion.
               The preservation of the individual&rsquo;s and community&rsquo;s
               ability to practice, experience, and transmit their faith.
             </p>
 
             <p>
-              <strong className="text-primary">Nafs:</strong> life and self. The
+              <strong className="text-primary">Nafs:</strong>{" "}life and self. The
               preservation of human life, health, physical safety, and wellbeing.
             </p>
 
             <p>
-              <strong className="text-primary">Aql:</strong> intellect and
+              <strong className="text-primary">Aql:</strong>{" "}intellect and
               knowledge. The preservation of the capacity to learn, reason, and
               create. The protection of education and intellectual life.
             </p>
 
             <p>
-              <strong className="text-primary">Nasl:</strong> family and
+              <strong className="text-primary">Nasl:</strong>{" "}family and
               lineage. The preservation of the family unit, marriage, children,
               and the continuity of future generations.
             </p>
 
             <p>
-              <strong className="text-primary">Mal:</strong> wealth and dignity.
+              <strong className="text-primary">Mal:</strong>{" "}wealth and dignity.
               The preservation of economic wellbeing, property,
               self-sufficiency, and dignified work.
             </p>
@@ -339,32 +339,32 @@ export function MaidahMemoContent() {
             </p>
 
             <p>
-              <strong className="text-primary">Faith:</strong> Spiritual
+              <strong className="text-primary">Faith:</strong>{" "}Spiritual
               experiences for converts. Umrah trips, immersive retreats, access
               to scholars and communities. Programs that let people experience
               Islam, not just read about it.
             </p>
 
             <p>
-              <strong className="text-primary">Health:</strong> Mental health
+              <strong className="text-primary">Health:</strong>{" "}Mental health
               resources for Muslim communities. Wellness programs. Crisis support
               infrastructure.
             </p>
 
             <p>
-              <strong className="text-primary">Education:</strong> Scholarships
+              <strong className="text-primary">Education:</strong>{" "}Scholarships
               and research fellowships. Educational tools and platforms. Support
               for independent scholarship.
             </p>
 
             <p>
-              <strong className="text-primary">Family:</strong> Financial support
+              <strong className="text-primary">Family:</strong>{" "}Financial support
               for young families. Marriage assistance. Parenting and family
               development resources.
             </p>
 
             <p>
-              <strong className="text-primary">Dignity:</strong> Entrepreneurship
+              <strong className="text-primary">Dignity:</strong>{" "}Entrepreneurship
               and employment programs. Financial literacy. Pathways to
               self-sufficiency and economic agency.
             </p>
@@ -438,7 +438,7 @@ export function MaidahMemoContent() {
             </p>
 
             <p>
-              <strong className="text-primary">Execution risk.</strong> Maidah is
+              <strong className="text-primary">Execution risk.</strong>{" "}Maidah is
               currently one person. Building a permanent institution requires
               sustained effort across legal, financial, creative, and operational
               domains. The risk that the founder cannot execute across all of
@@ -448,17 +448,20 @@ export function MaidahMemoContent() {
             </p>
 
             <p>
-              <strong className="text-primary">Capital risk.</strong> The
+              <strong className="text-primary">Capital risk.</strong>{" "}The
               endowment has no capital yet. An endowment without assets is a
               charter document, not an institution. The risk that Maidah cannot
               attract sufficient early capital to reach a meaningful compounding
-              base is the most immediate threat. Mitigation: the founder&rsquo;s
-              network, the memo as a fundraising artifact, and early visible work
-              that demonstrates seriousness.
+              base is the most immediate threat. Mitigation: the founder will
+              self-fund the early stages, until traction and investment gains
+              have meaningfully derisked the model. The memo and early visible
+              work serve as the foundation for future capital — but at this
+              stage, no one is being asked for money. Only for support along
+              the journey.
             </p>
 
             <p>
-              <strong className="text-primary">Market risk.</strong> Endowment
+              <strong className="text-primary">Market risk.</strong>{" "}Endowment
               returns depend on investment performance. A sustained downturn or a
               period of poor returns could limit disbursements and slow growth.
               Mitigation: diversification across asset classes, conservative
@@ -466,7 +469,7 @@ export function MaidahMemoContent() {
             </p>
 
             <p>
-              <strong className="text-primary">Time horizon risk.</strong> The
+              <strong className="text-primary">Time horizon risk.</strong>{" "}The
               waqf model is designed to operate across centuries. The modern
               attention economy operates in weeks. The risk is that donors,
               supporters, and the broader community lose patience with an
